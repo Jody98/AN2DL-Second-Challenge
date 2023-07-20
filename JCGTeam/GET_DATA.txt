@@ -1,0 +1,5 @@
+The datasplit we used is available at:
+
+https://drive.google.com/drive/folders/1jeBtzpJI8IgF25eG4RXU_woVk1rPenXZ?usp=sharing
+
+It is sufficient to download all the files there and put them into this directory
